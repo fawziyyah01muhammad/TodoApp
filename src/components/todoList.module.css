@@ -1,0 +1,13 @@
+.todoList{
+background-color: white;
+border-radius: 5px;
+width: 60%;
+box-shadow: 0 4px 6px rgb(0, 0, 0, 0.1);
+margin: 50px auto;
+padding: 20px;
+}
+@media(max-width:800px){
+  .todoList{
+    width: 80%;
+  }
+}
